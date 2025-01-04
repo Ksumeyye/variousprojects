@@ -1,2 +1,2 @@
 # variousprojects
-Ado.Net, WinFormsApp, EF, Db First, OPP ile oluşturduğum çeşitli projelerimin olduğu repomdur.
+Ado.Net, WinFormsApp, EF, Db First, OOP ile oluşturduğum çeşitli projelerimin olduğu repomdur.
