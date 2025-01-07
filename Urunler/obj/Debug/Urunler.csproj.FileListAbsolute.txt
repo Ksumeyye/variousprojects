@@ -1,0 +1,10 @@
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\bin\Debug\Urunler.exe.config
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\bin\Debug\Urunler.exe
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\bin\Debug\Urunler.pdb
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\obj\Debug\Urunler.csproj.AssemblyReference.cache
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\obj\Debug\Urunler.Form1.resources
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\obj\Debug\Urunler.Properties.Resources.resources
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\obj\Debug\Urunler.csproj.GenerateResource.cache
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\obj\Debug\Urunler.csproj.CoreCompileInputs.cache
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\obj\Debug\Urunler.exe
+C:\Users\SÜMEYYE\source\repos\Urunler\Urunler\obj\Debug\Urunler.pdb
