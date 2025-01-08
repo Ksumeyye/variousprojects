@@ -1,0 +1,11 @@
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\bin\Debug\Mesajlasma.exe.config
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\bin\Debug\Mesajlasma.exe
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\bin\Debug\Mesajlasma.pdb
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.csproj.AssemblyReference.cache
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.Form1.resources
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.MesajGonderAl.resources
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.Properties.Resources.resources
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.csproj.GenerateResource.cache
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.csproj.CoreCompileInputs.cache
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.exe
+C:\Users\SÜMEYYE\source\repos\Mesajlasma\Mesajlasma\obj\Debug\Mesajlasma.pdb
