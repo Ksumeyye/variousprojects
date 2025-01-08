@@ -1,0 +1,10 @@
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\bin\Debug\MiniSqlDerleyicisi.exe.config
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\bin\Debug\MiniSqlDerleyicisi.exe
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\bin\Debug\MiniSqlDerleyicisi.pdb
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\obj\Debug\MiniSqlDerleyicisi.csproj.AssemblyReference.cache
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\obj\Debug\MiniSqlDerleyicisi.Form1.resources
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\obj\Debug\MiniSqlDerleyicisi.Properties.Resources.resources
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\obj\Debug\MiniSqlDerleyicisi.csproj.GenerateResource.cache
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\obj\Debug\MiniSqlDerleyicisi.csproj.CoreCompileInputs.cache
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\obj\Debug\MiniSqlDerleyicisi.exe
+C:\Users\SÜMEYYE\source\repos\MiniSqlDerleyicisi\MiniSqlDerleyicisi\obj\Debug\MiniSqlDerleyicisi.pdb
