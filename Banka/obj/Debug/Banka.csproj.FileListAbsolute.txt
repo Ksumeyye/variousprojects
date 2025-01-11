@@ -1,0 +1,12 @@
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.Form1.resources
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.Form2.resources
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.Form3.resources
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.cache
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\SÜMEYYE\source\repos\Banka\Banka\obj\Debug\Banka.pdb
