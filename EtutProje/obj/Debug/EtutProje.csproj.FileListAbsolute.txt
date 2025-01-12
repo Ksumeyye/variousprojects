@@ -1,0 +1,10 @@
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\obj\Debug\EtutProje.csproj.AssemblyReference.cache
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\obj\Debug\EtutProje.Form1.resources
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\obj\Debug\EtutProje.Properties.Resources.resources
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\obj\Debug\EtutProje.csproj.GenerateResource.cache
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\obj\Debug\EtutProje.csproj.CoreCompileInputs.cache
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\bin\Debug\EtutProje.exe.config
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\bin\Debug\EtutProje.exe
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\bin\Debug\EtutProje.pdb
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\obj\Debug\EtutProje.exe
+C:\Users\SÜMEYYE\source\repos\EtutProje\EtutProje\obj\Debug\EtutProje.pdb
