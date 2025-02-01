@@ -1,0 +1,10 @@
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\bin\Debug\Trigger_Project.exe.config
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\bin\Debug\Trigger_Project.exe
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\bin\Debug\Trigger_Project.pdb
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\obj\Debug\Trigger_Project.csproj.AssemblyReference.cache
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\obj\Debug\Trigger_Project.Form1.resources
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\obj\Debug\Trigger_Project.Properties.Resources.resources
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\obj\Debug\Trigger_Project.csproj.GenerateResource.cache
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\obj\Debug\Trigger_Project.csproj.CoreCompileInputs.cache
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\obj\Debug\Trigger_Project.exe
+C:\Users\SÜMEYYE\source\repos\Trigger_Project\Trigger_Project\obj\Debug\Trigger_Project.pdb
