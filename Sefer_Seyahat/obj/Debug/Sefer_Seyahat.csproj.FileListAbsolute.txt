@@ -1,0 +1,10 @@
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\bin\Debug\Sefer_Seyahat.exe.config
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\bin\Debug\Sefer_Seyahat.exe
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\bin\Debug\Sefer_Seyahat.pdb
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.csproj.AssemblyReference.cache
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.Form1.resources
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.Properties.Resources.resources
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.csproj.GenerateResource.cache
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.csproj.CoreCompileInputs.cache
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.exe
+C:\Users\SÜMEYYE\source\repos\Sefer_Seyahat\Sefer_Seyahat\obj\Debug\Sefer_Seyahat.pdb
